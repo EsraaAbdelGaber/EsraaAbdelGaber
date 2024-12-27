@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Embedded Systems**
   
-- :computer: I’m interested in **software.**
+- :computer: I’m interested in **software devolopment**
   
 
 
